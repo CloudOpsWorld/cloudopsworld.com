@@ -14,7 +14,7 @@ enableRobotsTXT = true
 pygmentsCodeFences = true
 canonifyurls = true
 paginate = 6
-theme="materialize"
+theme="learn"
 
 
 [sitemap]
