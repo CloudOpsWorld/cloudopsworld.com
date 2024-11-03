@@ -1,4 +1,4 @@
-baseURL = 'http://www.cloudopsworld.com/'
+baseURL = 'https://www.cloudopsworld.com/'
 languageCode = 'en-us'
 title = 'CloudOpsWorld'
 
@@ -49,18 +49,18 @@ theme="learn"
   # csscdn=["https://fonts.googleapis.com/css?family=Concert+One|Roboto&display=swap"]
 
 
-#[languages]
-#  [languages.en]
-#    languageName = "English"
-#    title = "CloudOpsWorld"
-#    weight = 1
-#    [languages.en.params]
-#  [languages.ro]
-#    languageName = "Romana"
-#    title = "CloudOpsWorld"
+ [languages]
+   [languages.en]
+     languageName = "English"
+     title = "CloudOpsWorld"
+     weight = 1
+     [languages.en.params]
+   [languages.ro]
+     languageName = "Romana"
+     title = "CloudOpsWorld"
      subtitle = "CloudOps technologies knowledge base."
-#    weight = 2
-#    [languages.de.params]
+     weight = 2
+     [languages.ro.params]
 
 
 # Sets Social Media icons to appear and link to your account. Value should be your
