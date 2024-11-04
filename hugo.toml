@@ -1,0 +1,4 @@
+baseURL = 'https://www.cloudopsworld.com/'
+languageCode = 'en-us'
+title = 'CloudOpsWorld'
+theme = 'main'
