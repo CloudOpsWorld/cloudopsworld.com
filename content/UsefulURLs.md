@@ -9,3 +9,4 @@ title = 'DevOpsEngineer - Useful URLs'
 - [Azure Service Status Page](https://azure.status.microsoft/en-us/status)
 - [Google Cloud Service Status Page](https://status.cloud.google.com)
 - [Down Detector](https://downdetector.com)
+- [Microsoft Certification Paths](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
